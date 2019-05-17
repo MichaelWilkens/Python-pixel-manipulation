@@ -6,4 +6,4 @@ This repo contains python image processing algorithms that loop through each pix
 2) objective_two.py takes a black image and loops through the pixels, creating a matrix that renders into a double horizontal and            vertical strikethrough pattern.
 
 Technologies used include OpenCV for image reading, numPy for matrix building and matplotlib for final rendering of the 3D matrix.
-Built with python in VSCode.
+Built with python3. 
